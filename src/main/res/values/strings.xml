@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="button">Button</string>
+    <string name="moi_maailma">Moi Maailma!</string>
+    <string name="textview">TextView</string>
+    <string name="text">Insert text here</string>
+    <string name="insert_text">Insert text</string>
+    <string name="hello_world">HELLO WORLD!</string>
+</resources>
